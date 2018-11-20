@@ -5,7 +5,11 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicFactory", "MusicFactory\MusicFactory.csproj", "{DF6159AB-983E-4777-8C2A-D2975284BE85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CandyShop", "CandyShop\CandyShop.csproj", "{C05A0828-B152-4C6C-B073-3966F4CD84A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CandyShop", "CandyShop\CandyShop.csproj", "{C05A0828-B152-4C6C-B073-3966F4CD84A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBombardment", "TextBombardment\TextBombardment.csproj", "{BE40C0AC-7422-44C0-8CB6-0EF692CF20EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiggyBank", "PiggyBank\PiggyBank.csproj", "{F91DF6BD-A41B-4F58-9BD4-C66E59DDC3B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{C05A0828-B152-4C6C-B073-3966F4CD84A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C05A0828-B152-4C6C-B073-3966F4CD84A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C05A0828-B152-4C6C-B073-3966F4CD84A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE40C0AC-7422-44C0-8CB6-0EF692CF20EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE40C0AC-7422-44C0-8CB6-0EF692CF20EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE40C0AC-7422-44C0-8CB6-0EF692CF20EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE40C0AC-7422-44C0-8CB6-0EF692CF20EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F91DF6BD-A41B-4F58-9BD4-C66E59DDC3B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F91DF6BD-A41B-4F58-9BD4-C66E59DDC3B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F91DF6BD-A41B-4F58-9BD4-C66E59DDC3B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F91DF6BD-A41B-4F58-9BD4-C66E59DDC3B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
